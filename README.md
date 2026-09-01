@@ -2,7 +2,7 @@
 
 **Total: 60 marks** · Question 1–3 carry 10 marks each, Question 4–5 carry 15 marks each.
 
----
+--
 
 ## Question 1: Value Detective · 10 marks
 
@@ -193,10 +193,3 @@ Steps:
 * **50 Marks:** September 3, 2026, 11:59 PM
 
 ---
-
-## ⚠️ Plagiarism & AI Policy:
-
-* **Zero Tolerance:** Plagiarism will result in **0 marks**.
-* **No Copying:** Do not copy code from peers or online sources.
-* **No AI Code:** Do not use AI generators. We actively run AI code detection tools.
-* **Original Work:** All code must be 100% your own.
